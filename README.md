@@ -46,19 +46,19 @@ The notebook reads these via `google.colab.userdata`, so **no credentials are st
 ## 🛠 Technologies Used
 
    ![Python]   &nbsp; Primary language for the entire pipeline — data loading, model building, training, and evaluation.
-   <br/>
+   <br/><br/>
    ![TensorFlow]   &nbsp; Deep learning framework used to build, train, and serialise the CNN.
-   <br/>
+   <br/><br/>
    ![Keras]   &nbsp; High-level API on top of TensorFlow for defining the layered CNN architecture and training callbacks.
-   <br/>
+   <br/><br/>
    ![scikit-learn]   &nbsp; Used for the classification report, confusion matrix, and accuracy metrics.
-   <br/>
+   <br/><br/>
    ![NumPy]   &nbsp; Numerical operations on image arrays and label vectors.
-   <br/>
+   <br/><br/>
    ![Pandas]   &nbsp; Tabular summaries of the dataset class distribution.
-   <br/>
+   <br/><br/>
    ![Matplotlib]   &nbsp; Plotting EDA samples, augmented grids, training curves, and the confusion matrix.
-   <br/>
+   <br/><br/>
    ![Colab]   &nbsp; Hosted runtime providing GPU acceleration and secret management for the Kaggle API.
 
 ---
